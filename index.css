@@ -16,7 +16,7 @@ body {
 }
 
 .textbox {
-    width: 80%;
+    width: 230px;
     height: 20%;
     margin-top: 20px;
     margin-left: 25px;
@@ -31,7 +31,7 @@ body {
 }
 
 .textbox:hover {
-    width: 80%;
+    width: 230px;
     border: 2px solid #1a4ac5;
 }
 
@@ -42,7 +42,7 @@ body {
 
 .btn {
     margin-top: 10px;
-    width: 50%;
+    width: 150px;
     border: 2px solid #1E5CF6;
     margin-left: 70px;
     padding-top: 20px;
